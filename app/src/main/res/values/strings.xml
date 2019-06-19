@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RestaurantSearch</string>
+    <string name="search_text">Search</string>
+    <string name="reset_text">Reset </string>
+    <string name="price_sort_text">Sort by cost</string>
+    <string name="rating_sort_text">Sort by rating</string>
+    <string name="no_data_message">We are not getting any results.\nTry another search</string>
+</resources>

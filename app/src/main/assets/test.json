@@ -1,0 +1,800 @@
+{
+  "results_found": 10,
+  "results_start": 0,
+  "results_shown": 10,
+  "restaurants": [
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18974091
+        },
+        "apikey": "7b2d9885c8f7af27a1d0185969c9f79a",
+        "id": "18974091",
+        "name": "Laziz Pizza",
+        "url": "https:\/\/www.zomato.com\/akola\/laziz-pizza-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Damre Market, Shastri Nagar, Akola, Akola Locality, Akola",
+          "locality": "Akola Locality",
+          "city": "Akola",
+          "city_id": 11434,
+          "latitude": "20.7042065022",
+          "longitude": "77.0154368877",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Akola Locality, Akola"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Pizza, Beverages",
+        "timings": "11 AM to 10:30 PM",
+        "average_cost_for_two": 300,
+        "price_range": 1,
+        "currency": "Rs.",
+        "highlights": [
+          "Delivery",
+          "Debit Card",
+          "Cash",
+          "Lunch",
+          "Takeaway Available",
+          "Credit Card",
+          "Dinner",
+          "Indoor Seating",
+          "Table booking not available",
+          "Pure Veg",
+          "Table Reservation Not Required",
+          "Air Conditioned",
+          "Digital Payments Accepted",
+          "All Day Breakfast"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": 0,
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": 0
+        },
+        "all_reviews_count": 0,
+        "photos_url": "https:\/\/www.zomato.com\/akola\/laziz-pizza-akola-locality\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 0,
+        "menu_url": "https:\/\/www.zomato.com\/akola\/laziz-pizza-akola-locality\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/18974091",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/akola\/laziz-pizza-akola-locality\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "Not available for this place",
+        "all_reviews": {
+          "reviews": []
+        },
+        "establishment": [
+          "Caf\u00e9"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18975712
+        },
+        "apikey": "7b2d9885c8f7af27a1d0185969c9f79a",
+        "id": "18975712",
+        "name": "Laziz Pizza",
+        "url": "https:\/\/www.zomato.com\/akola\/laziz-pizza-1-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Damre Market, Shastri Nagar, Akola Locality, Akola",
+          "locality": "Akola Locality",
+          "city": "Akola",
+          "city_id": 11434,
+          "latitude": "20.7041800000",
+          "longitude": "77.0153960000",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Akola Locality, Akola"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Fast Food, Pizza, Burger",
+        "timings": "11 AM to 10:30 PM",
+        "average_cost_for_two": 300,
+        "price_range": 1,
+        "currency": "Rs.",
+        "highlights": [
+          "Delivery",
+          "Cash",
+          "Takeaway Available",
+          "Indoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/18975712\/24826e6399987ff01c2f092b8023aef5.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "9"
+        },
+        "all_reviews_count": 1,
+        "photos_url": "https:\/\/www.zomato.com\/akola\/laziz-pizza-1-akola-locality\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 2,
+        "menu_url": "https:\/\/www.zomato.com\/akola\/laziz-pizza-1-akola-locality\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/18975712\/24826e6399987ff01c2f092b8023aef5.jpg",
+        "has_online_delivery": 1,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/18975712",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/akola\/laziz-pizza-1-akola-locality\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "+91 9130666159",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": {
+                "rating": 1,
+                "review_text": "I ordered veg cheese sandwich they gave me only without cheese and also the taste and quality is too bad only one piece of cucumber and 1 piece of tomato in sandwich That's all",
+                "id": 42246589,
+                "rating_color": "CB202D",
+                "review_time_friendly": "2 months ago",
+                "rating_text": "Avoid!",
+                "timestamp": 1553619475,
+                "likes": 0,
+                "user": {
+                  "name": "Shubham Shah",
+                  "foodie_level": "Foodie",
+                  "foodie_level_num": 2,
+                  "foodie_color": "ffd35d",
+                  "profile_url": "https:\/\/www.zomato.com\/users\/shubham-shah-102730909?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                  "profile_image": "https:\/\/b.zmtcdn.com\/data\/user_profile_pictures\/6a9\/1a61e87d4c238f934fd4173838b6f6a9.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+                  "profile_deeplink": "zomato:\/\/u\/102730909"
+                },
+                "comments_count": 0
+              }
+            }
+          ]
+        },
+        "establishment": [
+          "Quick Bites"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18952730
+        },
+        "apikey": "7b2d9885c8f7af27a1d0185969c9f79a",
+        "id": "18952730",
+        "name": "Domino's Pizza",
+        "url": "https:\/\/www.zomato.com\/akola\/dominos-pizza-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Ground Floor, Shyam Onir Tower, Alsi Plot, Nazul Plot 2, Nazul Street 55, Block L\/2, Mouja Akola, Barshitakli Road, Akola Locality, Akola",
+          "locality": "Akola Locality",
+          "city": "Akola",
+          "city_id": 11434,
+          "latitude": "20.6998700000",
+          "longitude": "77.0042660000",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Akola Locality, Akola"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Fast Food, Pizza",
+        "timings": "11 AM to 11 PM",
+        "average_cost_for_two": 400,
+        "price_range": 2,
+        "currency": "Rs.",
+        "highlights": [
+          "Dinner",
+          "Delivery",
+          "Credit Card",
+          "Lunch",
+          "Cash",
+          "Takeaway Available",
+          "Debit Card",
+          "Indoor Seating",
+          "Air Conditioned"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "3.8",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "4"
+        },
+        "all_reviews_count": 0,
+        "photos_url": "https:\/\/www.zomato.com\/akola\/dominos-pizza-akola-locality\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 0,
+        "menu_url": "https:\/\/www.zomato.com\/akola\/dominos-pizza-akola-locality\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/18952730",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/akola\/dominos-pizza-akola-locality\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "+91 7030900602, +91 7030900603",
+        "all_reviews": {
+          "reviews": []
+        },
+        "establishment": [
+          "Quick Bites"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18971653
+        },
+        "apikey": "7b2d9885c8f7af27a1d0185969c9f79a",
+        "id": "18971653",
+        "name": "Paprika Cafe & Restro",
+        "url": "https:\/\/www.zomato.com\/akola\/paprika-cafe-restro-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Paptika Cafe & Restroom, Above Louise Phillip, Civil Lines Square, Ratanlal Plot, Akola, Akola Locality, Akola",
+          "locality": "Akola Locality",
+          "city": "Akola",
+          "city_id": 11434,
+          "latitude": "20.7060192343",
+          "longitude": "77.0101029798",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Akola Locality, Akola"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "South Indian, Pizza, North Indian, Chinese, Beverages, Coffee, Fast Food, Italian",
+        "timings": "9:30 AM to 10:30 PM",
+        "average_cost_for_two": 150,
+        "price_range": 1,
+        "currency": "Rs.",
+        "highlights": [
+          "Cash",
+          "Lunch",
+          "Takeaway Available",
+          "Dinner",
+          "Indoor Seating",
+          "Table Reservation Not Required",
+          "Air Conditioned",
+          "Free Wifi",
+          "Table booking not available",
+          "Pure Veg",
+          "Digital Payments Accepted",
+          "All Day Breakfast",
+          "Brunch"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": 0,
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": 0
+        },
+        "all_reviews_count": 0,
+        "photos_url": "https:\/\/www.zomato.com\/akola\/paprika-cafe-restro-akola-locality\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 0,
+        "menu_url": "https:\/\/www.zomato.com\/akola\/paprika-cafe-restro-akola-locality\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/18971653",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/akola\/paprika-cafe-restro-akola-locality\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "Not available for this place",
+        "all_reviews": {
+          "reviews": []
+        },
+        "establishment": [
+          "Caf\u00e9"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18971318
+        },
+        "apikey": "7b2d9885c8f7af27a1d0185969c9f79a",
+        "id": "18971318",
+        "name": "The 9's Cafe",
+        "url": "https:\/\/www.zomato.com\/akola\/the-9s-cafe-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Shop No. 18, Nisarg Sangham, Near Tathod Mangal Karyalay, Shastri Nagar, Akola, Akola Locality, Akola",
+          "locality": "Akola Locality",
+          "city": "Akola",
+          "city_id": 11434,
+          "latitude": "20.7030404461",
+          "longitude": "77.0148508251",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Akola Locality, Akola"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Sandwich, Pizza, Modern Indian, Desserts, Burger, Beverages, Fast Food",
+        "timings": "",
+        "average_cost_for_two": 300,
+        "price_range": 1,
+        "currency": "Rs.",
+        "highlights": [
+          "Takeaway Available",
+          "Debit Card",
+          "Dinner",
+          "Cash",
+          "Credit Card",
+          "Lunch",
+          "Indoor Seating",
+          "Table booking not available",
+          "Digital Payments Accepted",
+          "All Day Breakfast",
+          "Table Reservation Not Required",
+          "Air Conditioned",
+          "Pure Veg"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": 0,
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": 0
+        },
+        "all_reviews_count": 0,
+        "photos_url": "https:\/\/www.zomato.com\/akola\/the-9s-cafe-akola-locality\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 0,
+        "menu_url": "https:\/\/www.zomato.com\/akola\/the-9s-cafe-akola-locality\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/18971318",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/akola\/the-9s-cafe-akola-locality\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "Not available for this place",
+        "all_reviews": {
+          "reviews": []
+        },
+        "establishment": [
+          "Caf\u00e9"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18978516
+        },
+        "apikey": "7b2d9885c8f7af27a1d0185969c9f79a",
+        "id": "18978516",
+        "name": "Surabhi Pavbhaji Center",
+        "url": "https:\/\/www.zomato.com\/akola\/surabhi-pavbhaji-center-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Alsi sankul, open theater samor, Akola Locality, Akola",
+          "locality": "Akola Locality",
+          "city": "Akola",
+          "city_id": 11434,
+          "latitude": "20.7081809988",
+          "longitude": "76.9997375831",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Akola Locality, Akola"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Juices, Chinese, Fast Food, Maharashtrian, Pizza, South Indian",
+        "timings": "11 AM to 10:30 PM",
+        "average_cost_for_two": 200,
+        "price_range": 1,
+        "currency": "Rs.",
+        "highlights": [
+          "Takeaway Available",
+          "Lunch",
+          "Delivery",
+          "Cash",
+          "Dinner",
+          "Indoor Seating",
+          "Pure Veg",
+          "Digital Payments Accepted",
+          "Outdoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "8"
+        },
+        "all_reviews_count": 2,
+        "photos_url": "https:\/\/www.zomato.com\/akola\/surabhi-pavbhaji-center-akola-locality\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 0,
+        "menu_url": "https:\/\/www.zomato.com\/akola\/surabhi-pavbhaji-center-akola-locality\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 1,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/18978516",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/akola\/surabhi-pavbhaji-center-akola-locality\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "+91 9823282483, +91 8149451755",
+        "all_reviews": {
+          "reviews": [
+            {
+              "review": {
+                "rating": 4.5,
+                "review_text": "I ordered veg paneer pulao, it was testy, salad was good also. Packing was nice and delivered very fast. One suggestion only, please improve your quantity of food. Otherwise My first experience was so good. I like it.",
+                "id": 43009629,
+                "rating_color": "3F7E00",
+                "review_time_friendly": "one month ago",
+                "rating_text": "Loved it!",
+                "timestamp": 1557634918,
+                "likes": 0,
+                "user": {
+                  "name": "Jyoti Ingle",
+                  "foodie_level": "Foodie",
+                  "foodie_level_num": 2,
+                  "foodie_color": "ffd35d",
+                  "profile_url": "https:\/\/www.zomato.com\/users\/jyoti-ingle-98982572?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                  "profile_image": "https:\/\/b.zmtcdn.com\/data\/user_profile_pictures\/6c2\/f97fb58d1d7f1eb3340602430178c6c2.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+                  "profile_deeplink": "zomato:\/\/u\/98982572"
+                },
+                "comments_count": 0
+              }
+            },
+            {
+              "review": {
+                "rating": 1,
+                "review_text": "I ordered paav bhaji and other things with it.. The packaging was too poor so the bhaaji was spoiled in the bag of valet... improve your food packaging",
+                "id": 42230734,
+                "rating_color": "CB202D",
+                "review_time_friendly": "2 months ago",
+                "rating_text": "Avoid!",
+                "timestamp": 1553530049,
+                "likes": 1,
+                "user": {
+                  "name": "Saurabh",
+                  "foodie_level": "Foodie",
+                  "foodie_level_num": 2,
+                  "foodie_color": "ffd35d",
+                  "profile_url": "https:\/\/www.zomato.com\/users\/saurabh-96717758?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                  "profile_image": "https:\/\/b.zmtcdn.com\/images\/user_avatars\/pizza_2x.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                  "profile_deeplink": "zomato:\/\/u\/96717758"
+                },
+                "comments_count": 0
+              }
+            }
+          ]
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 19007921
+        },
+        "apikey": "7b2d9885c8f7af27a1d0185969c9f79a",
+        "id": "19007921",
+        "name": "Munchies",
+        "url": "https:\/\/www.zomato.com\/akola\/munchies-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Alaknanda appartment, shrawani plot Akola, Akola Locality, Akola",
+          "locality": "Akola Locality",
+          "city": "Akola",
+          "city_id": 11434,
+          "latitude": "20.7043012163",
+          "longitude": "77.0102250203",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Akola Locality, Akola"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Burger, Chinese, Pizza",
+        "timings": "",
+        "average_cost_for_two": 200,
+        "price_range": 1,
+        "currency": "Rs.",
+        "highlights": [
+          "No Seating Available"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "3.5",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "1"
+        },
+        "all_reviews_count": 0,
+        "photos_url": "https:\/\/www.zomato.com\/akola\/munchies-akola-locality\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 0,
+        "menu_url": "https:\/\/www.zomato.com\/akola\/munchies-akola-locality\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 1,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/19007921",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/akola\/munchies-akola-locality\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "+91 8668202846",
+        "all_reviews": {
+          "reviews": []
+        },
+        "establishment": [
+          "Food Truck"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18999653
+        },
+        "apikey": "7b2d9885c8f7af27a1d0185969c9f79a",
+        "id": "18999653",
+        "name": "Madhuri Coldrink & Restaurant",
+        "url": "https:\/\/www.zomato.com\/akola\/madhuri-coldrink-restaurant-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Jatharpeth, Khedkar Nagar, Moreshwar Colony, Near Barajyotriling Mandir, Akola",
+          "locality": "Akola Locality",
+          "city": "Akola",
+          "city_id": 11434,
+          "latitude": "20.7105390000",
+          "longitude": "77.0191210000",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Akola Locality, Akola"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "South Indian, Pizza, Sandwich, Fast Food, North Indian, Beverages",
+        "timings": "8 AM to 11 PM",
+        "average_cost_for_two": 300,
+        "price_range": 1,
+        "currency": "Rs.",
+        "highlights": [
+          "Dinner",
+          "Cash",
+          "Breakfast",
+          "Lunch",
+          "Debit Card",
+          "Indoor Seating",
+          "Air Conditioned",
+          "Pure Veg"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": 0,
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": 0
+        },
+        "all_reviews_count": 0,
+        "photos_url": "https:\/\/www.zomato.com\/akola\/madhuri-coldrink-restaurant-akola-locality\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 0,
+        "menu_url": "https:\/\/www.zomato.com\/akola\/madhuri-coldrink-restaurant-akola-locality\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 1,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/18999653",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/akola\/madhuri-coldrink-restaurant-akola-locality\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "+91 9822470059, +91 8080008778",
+        "all_reviews": {
+          "reviews": []
+        },
+        "establishment": [
+          "Quick Bites"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18995303
+        },
+        "apikey": "7b2d9885c8f7af27a1d0185969c9f79a",
+        "id": "18995303",
+        "name": "Royal Cafe",
+        "url": "https:\/\/www.zomato.com\/akola\/royal-cafe-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Akot Stand Rauf Shah Road, Akola Municipal corporation, Akola Locality, Akola",
+          "locality": "Akola Locality",
+          "city": "Akola",
+          "city_id": 11434,
+          "latitude": "20.7150540320",
+          "longitude": "76.9981299341",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Akola Locality, Akola"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Burger, Fast Food, Pizza, Sandwich",
+        "timings": "2 PM to 10:30 PM",
+        "average_cost_for_two": 150,
+        "price_range": 1,
+        "currency": "Rs.",
+        "highlights": [
+          "Takeaway Available",
+          "Cash",
+          "Delivery",
+          "Indoor Seating",
+          "Free Parking",
+          "Outdoor Seating",
+          "Pure Veg"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": "3.7",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "3"
+        },
+        "all_reviews_count": 0,
+        "photos_url": "https:\/\/www.zomato.com\/akola\/royal-cafe-akola-locality\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 0,
+        "menu_url": "https:\/\/www.zomato.com\/akola\/royal-cafe-akola-locality\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 1,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/18995303",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/akola\/royal-cafe-akola-locality\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "+91 7385601971",
+        "all_reviews": {
+          "reviews": []
+        },
+        "establishment": [
+          "Quick Bites"
+        ],
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18861621
+        },
+        "apikey": "7b2d9885c8f7af27a1d0185969c9f79a",
+        "id": "18861621",
+        "name": "Bun Maska Cafe",
+        "url": "https:\/\/www.zomato.com\/akola\/bun-maska-cafe-1-akola-locality?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Dwarka Nagari, Gov Dudh Dary Road, Shastri Nagar, Akola - 444001, Opp Damre Market, Opp Laziz Pizza, Akola Locality, Akola",
+          "locality": "Akola Locality",
+          "city": "Akola",
+          "city_id": 11434,
+          "latitude": "20.7042838214",
+          "longitude": "77.0155731776",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Akola Locality, Akola"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Cafe",
+        "timings": "10 AM to 10:30 PM (Tue-Sun), Mon Closed",
+        "average_cost_for_two": 350,
+        "price_range": 2,
+        "currency": "Rs.",
+        "highlights": [
+          "Dinner",
+          "Takeaway Available",
+          "Debit Card",
+          "Lunch",
+          "Cash",
+          "Credit Card",
+          "Indoor Seating"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": 0,
+          "rating_text": "Not rated",
+          "rating_color": "CBCBC8",
+          "votes": 0
+        },
+        "all_reviews_count": 0,
+        "photos_url": "https:\/\/www.zomato.com\/akola\/bun-maska-cafe-1-akola-locality\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 0,
+        "menu_url": "https:\/\/www.zomato.com\/akola\/bun-maska-cafe-1-akola-locality\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato:\/\/restaurant\/18861621",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https:\/\/www.zomato.com\/akola\/bun-maska-cafe-1-akola-locality\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "+91 9767517296",
+        "all_reviews": {
+          "reviews": []
+        },
+        "establishment": [
+          "Quick Bites"
+        ],
+        "establishment_types": []
+      }
+    }
+  ]
+}
