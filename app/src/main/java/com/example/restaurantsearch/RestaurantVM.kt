@@ -19,18 +19,13 @@ class RestaurantVM(application: Application): AndroidViewModel(application) {
     private val restaurantIntaractor: RestaurantIntaractor = RestaurantIntaractor()
     val liveData: MutableLiveData<List<GroupedRestaurants>> = MutableLiveData()
     private val compositeDisposable: CompositeDisposable = CompositeDisposable()
-//    private var searchQuerySubject = PublishSubject.create<String>()
 
     fun start() {
         liveData.value = listOf()
-//        getDataFromIntaractor()
     }
 
     fun getDataFromIntaractor(query: String) {
         compositeDisposable.add(
-//            searchQuerySubject
-//                .debounce(300, TimeUnit.MILLISECONDS)
-//                .flatMap {query ->  restaurantIntaractor.getRestaurants(query, getApplication()) }
             restaurantIntaractor.getRestaurants(query, getApplication())
                 .flatMap {
                     rawList = it
@@ -65,8 +60,6 @@ class RestaurantVM(application: Application): AndroidViewModel(application) {
     fun onQuerySubmit(query: String?) {
         query?.let {
             if (it.isNotEmpty()) {
-//                searchQuerySubject = PublishSubject.create<String>()
-//                searchQuerySubject.onNext(it)
                 getDataFromIntaractor(query)
             } else {
                 liveData.value = listOf()

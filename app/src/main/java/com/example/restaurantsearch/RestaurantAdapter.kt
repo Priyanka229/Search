@@ -30,11 +30,6 @@ class RestaurantAdapter: RecyclerView.Adapter<RestaurantAdapter.RestaurantViewHo
         fun bind(groupedRestaurants: GroupedRestaurants) {
             cuisineTitle.text = groupedRestaurants.cuisine
 
-//            recyclerView.layoutManager = LinearLayoutManager(view.context, LinearLayoutManager.HORIZONTAL, false)
-//            val adapter = CuisineRestaurantAdapter()
-//            adapter.restaurantList = groupedRestaurants.restaurantList
-//            recyclerView.adapter = adapter
-
             recyclerView.apply {
                 layoutManager = LinearLayoutManager(view.context, LinearLayoutManager.HORIZONTAL, false)
                 this.adapter = CuisineRestaurantAdapter().apply {
