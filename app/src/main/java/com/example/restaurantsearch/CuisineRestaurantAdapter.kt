@@ -1,6 +1,13 @@
 package com.example.restaurantsearch
 
+import android.graphics.Color
+import android.graphics.Typeface
 import android.support.v7.widget.RecyclerView
+import android.text.Spannable
+import android.text.SpannableString
+import android.text.Spanned
+import android.text.style.ForegroundColorSpan
+import android.text.style.StyleSpan
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -32,11 +39,11 @@ class CuisineRestaurantAdapter: RecyclerView.Adapter<CuisineRestaurantAdapter.Cu
 
         fun bind(item: Restaurant) {
 
-            val rating = item.userRating?.rating + "*"
+            val rating = item.userRating?.rating + "* "
             val cost = item.cost + "Rs"
             restaurantName.text = item.name
-            restaurantRating.text = rating
-            restaurantCost.text = cost
+            restaurantRating.text = setBoldSpannable(rating)
+            restaurantCost.text = setBoldSpannable(cost)
             Glide
                 .with(view.context)
                 .load(item.thumb)
@@ -44,6 +51,14 @@ class CuisineRestaurantAdapter: RecyclerView.Adapter<CuisineRestaurantAdapter.Cu
                 .centerCrop()
                 .into(restaurantIv)
 
+        }
+
+        fun setBoldSpannable(myText: String): SpannableString {
+            val spannableContent = SpannableString(myText)
+            spannableContent.setSpan(StyleSpan(Typeface.BOLD), 0,  myText.length, Spannable.SPAN_INCLUSIVE_INCLUSIVE)
+            spannableContent.setSpan(ForegroundColorSpan(Color.BLACK), 0, myText.length-2, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE)
+
+            return spannableContent
         }
     }
 }
